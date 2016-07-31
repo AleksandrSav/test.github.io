@@ -1,0 +1,206 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="V&amp;Co.ru" resolutions="1x" timestamp="1469279497084">
+  <folder name="css">
+    <file name="site_global.css" crc="3779178997"/>
+    <file name="index.css" crc="135440484" ref="index"/>
+    <file name="nomq_index.css" crc="4121730293" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="bigbossicon.woff" crc="331700122"/>
+    <file name="bigbossicon.eot" crc="492749460"/>
+    <file name="bigbossicon.svg" crc="4248078019"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3898505244" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="408737887" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="v-company-favicon.ico" crc="3958476873" ref="index"/>
+    <file name="car.png" crc="4100195595" ref="index"/>
+    <file name="111.png" crc="264376051" ref="index"/>
+    <file name="краск-u109-fr.png" crc="4107024296" ref="index"/>
+    <file name="logo.png" crc="4206119377" seo="true" ref="index"/>
+    <file name="111-u374-fr.png" crc="3968972309" ref="index"/>
+    <file name="best_logo.png" crc="4017776644" seo="true" ref="index"/>
+    <file name="car-panamera.jpg" crc="4274565154" ref="index"/>
+    <file name="porsche_cayenne_pic_39846.jpg" crc="4136416945" ref="index"/>
+    <file name="краскопульк.png" crc="133217249" seo="true" ref="index"/>
+    <file name="слой-23.png" crc="4049073624" seo="true" ref="index"/>
+    <file name="слой-18.png" crc="4195575895" seo="true" ref="index"/>
+    <file name="20973.png" crc="406203386" seo="true" ref="index"/>
+    <file name="машина.png" crc="151229931" seo="true" ref="index"/>
+    <file name="kuzov.png" crc="535474905" seo="true" ref="index"/>
+    <file name="color.jpg" crc="368322670" ref="index"/>
+    <file name="polirovka.jpg" crc="4022682005" seo="true" ref="index"/>
+    <file name="plenka2.jpg" crc="3789370577" ref="index"/>
+    <file name="img_1779.jpg" crc="327130499" seo="true" ref="index"/>
+    <file name="vinil.jpg" crc="3873858257" seo="true" ref="index"/>
+    <file name="fara.jpg" crc="4248282676" seo="true" ref="index"/>
+    <file name="slesarka.jpg" crc="4151691017" ref="index"/>
+    <file name="слой-26.png" crc="4078397072" seo="true" ref="index"/>
+    <file name="слой-32.png" crc="3776555667" seo="true" ref="index"/>
+    <file name="слой-27.png" crc="4009277344" seo="true" ref="index"/>
+    <file name="слой-31.png" crc="3993458910" seo="true" ref="index"/>
+    <file name="слой-28.png" crc="229984889" seo="true" ref="index"/>
+    <file name="слой-34.png" crc="309886184" seo="true" ref="index"/>
+    <file name="слой-30.png" crc="3975873179" seo="true" ref="index"/>
+    <file name="слой-33.png" crc="78181816" seo="true" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u15928.jpg" crc="53931126" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc00006.jpg" crc="3999794416" seo="true" ref="index"/>
+    <file name="remont_1.jpg" crc="4092111257" seo="true" ref="index"/>
+    <file name="remont_2.jpg" crc="4197391053" seo="true" ref="index"/>
+    <file name="remont_3.jpg" crc="44540951" seo="true" ref="index"/>
+    <file name="remont_4.jpg" crc="97579274" seo="true" ref="index"/>
+    <file name="remont_5.jpg" crc="249695005" seo="true" ref="index"/>
+    <file name="dsc00013.jpg" crc="4257546080" seo="true" ref="index"/>
+    <file name="dsc000034.jpg" crc="137131117" seo="true" ref="index"/>
+    <file name="img_1778-crop-u16320.jpg" crc="84051573" ref="index"/>
+    <file name="img_1779-crop-u16373.jpg" crc="90114702" ref="index"/>
+    <file name="img_2159-crop-u16426.jpg" crc="4028594111" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u15938.jpg" crc="4182125020" ref="index"/>
+    <file name="dsc00006-crop-u16176.jpg" crc="3976854875" ref="index"/>
+    <file name="remont_1-crop-u17618.jpg" crc="485377620" ref="index"/>
+    <file name="remont_2-crop-u17671.jpg" crc="4120387837" ref="index"/>
+    <file name="remont_3-crop-u17724.jpg" crc="415765493" ref="index"/>
+    <file name="remont_4-crop-u17777.jpg" crc="26512290" ref="index"/>
+    <file name="remont_5-crop-u17830.jpg" crc="3910639004" ref="index"/>
+    <file name="dsc00013-crop-u16229.jpg" crc="313640268" ref="index"/>
+    <file name="dsc000034128x96.jpg" crc="3941846464" seo="true" ref="index"/>
+    <file name="img_1778128x96.jpg" crc="4292927257" seo="true" ref="index"/>
+    <file name="img_1779128x96.jpg" crc="220711678" seo="true" ref="index"/>
+    <file name="img_2159128x96.jpg" crc="144770329" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="без-имени-11.png" crc="4108126028" seo="true" ref="index"/>
+    <file name="слой-49.png" crc="4026823453" seo="true" ref="index"/>
+    <file name="слой-48.png" crc="160124478" seo="true" ref="index"/>
+    <file name="damkrat.png" crc="4229521198" seo="true" ref="index"/>
+    <file name="mouka.jpg" crc="345874221" ref="index"/>
+    <file name="ка.png" crc="4116072664" seo="true" ref="index"/>
+    <file name="ка159x112.png" crc="4081363533" seo="true" ref="index"/>
+    <file name="11111.jpg" crc="3864785823" ref="index"/>
+    <file name="footer.jpg" crc="427800410" ref="index"/>
+    <file name="vk.png" crc="369580463" seo="true" ref="index"/>
+    <file name="111-u86-fr.png" crc="352454761" ref="index"/>
+    <file name="slesarka-u645-fr.jpg" crc="4289831898" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159282.jpg" crc="53931126" ref="index"/>
+    <file name="img_1778-crop-u163202.jpg" crc="84051573" ref="index"/>
+    <file name="img_1779-crop-u163732.jpg" crc="90114702" ref="index"/>
+    <file name="img_2159-crop-u164262.jpg" crc="4028594111" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159382.jpg" crc="4182125020" ref="index"/>
+    <file name="dsc00006-crop-u161762.jpg" crc="3976854875" ref="index"/>
+    <file name="remont_1-crop-u176182.jpg" crc="485377620" ref="index"/>
+    <file name="remont_2-crop-u176712.jpg" crc="4120387837" ref="index"/>
+    <file name="remont_3-crop-u177242.jpg" crc="415765493" ref="index"/>
+    <file name="remont_4-crop-u177772.jpg" crc="26512290" ref="index"/>
+    <file name="remont_5-crop-u178302.jpg" crc="3910639004" ref="index"/>
+    <file name="dsc00013-crop-u162292.jpg" crc="313640268" ref="index"/>
+    <file name="111-u86-fr2.png" crc="4150209393" ref="index"/>
+    <file name="краск.png" crc="4272517296" ref="index"/>
+    <file name="111-u374-fr2.png" crc="484655636" ref="index"/>
+    <file name="car-panamera-u2060-fr.jpg" crc="3857960255" ref="index"/>
+    <file name="kuzov417x313.png" crc="4221581995" seo="true" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159283.jpg" crc="4058686093" ref="index"/>
+    <file name="remont_1-crop-u17600.jpg" crc="3873370402" ref="index"/>
+    <file name="remont_2-crop-u17656.jpg" crc="66944881" ref="index"/>
+    <file name="remont_3-crop-u17709.jpg" crc="165247347" ref="index"/>
+    <file name="remont_4-crop-u17762.jpg" crc="144708909" ref="index"/>
+    <file name="remont_5-crop-u17815.jpg" crc="60167621" ref="index"/>
+    <file name="dsc000034-crop-u16267.jpg" crc="223155623" ref="index"/>
+    <file name="img_1778-crop-u163203.jpg" crc="517357144" ref="index"/>
+    <file name="img_1779-crop-u163733.jpg" crc="4050853302" ref="index"/>
+    <file name="img_2159-crop-u164263.jpg" crc="464870197" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159383.jpg" crc="295380551" ref="index"/>
+    <file name="dsc00006-crop-u161763.jpg" crc="528028078" ref="index"/>
+    <file name="remont_168x45.jpg" crc="351211835" seo="true" ref="index"/>
+    <file name="remont_268x45.jpg" crc="3968326207" seo="true" ref="index"/>
+    <file name="remont_368x45.jpg" crc="4184449632" seo="true" ref="index"/>
+    <file name="remont_468x45.jpg" crc="212334786" seo="true" ref="index"/>
+    <file name="remont_568x45.jpg" crc="228214935" seo="true" ref="index"/>
+    <file name="dsc00013-crop-u162293.jpg" crc="297667003" ref="index"/>
+    <file name="dsc00003460x45.jpg" crc="3920766116" seo="true" ref="index"/>
+    <file name="img_177860x45.jpg" crc="4251041619" seo="true" ref="index"/>
+    <file name="img_177960x45.jpg" crc="274790817" seo="true" ref="index"/>
+    <file name="img_215960x45.jpg" crc="339241661" seo="true" ref="index"/>
+    <file name="111-u86-fr3.png" crc="473636229" ref="index"/>
+    <file name="краск-u109-fr2.png" crc="383229630" ref="index"/>
+    <file name="111-u374-fr3.png" crc="3809969391" ref="index"/>
+    <file name="u15549-grad.png" crc="3769340077" ref="index"/>
+    <file name="polirovka225x150.jpg" crc="4284026071" seo="true" ref="index"/>
+    <file name="slesarka-u645-fr2.jpg" crc="3760619891" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159284.jpg" crc="4144123206" ref="index"/>
+    <file name="dsc000034-crop-u162672.jpg" crc="100971364" ref="index"/>
+    <file name="img_1778-crop-u163204.jpg" crc="534230746" ref="index"/>
+    <file name="img_1779-crop-u163734.jpg" crc="194618942" ref="index"/>
+    <file name="img_2159-crop-u164264.jpg" crc="3937921776" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159384.jpg" crc="295380551" ref="index"/>
+    <file name="dsc00006-crop-u161764.jpg" crc="528028078" ref="index"/>
+    <file name="dsc00013-crop-u162294.jpg" crc="297667003" ref="index"/>
+    <file name="ка190x134.png" crc="3987201160" seo="true" ref="index"/>
+    <file name="kuzov457x343.png" crc="3844908636" seo="true" ref="index"/>
+    <file name="polirovka257x171.jpg" crc="96219435" seo="true" ref="index"/>
+    <file name="slesarka-u645-fr3.jpg" crc="3858964898" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159285.jpg" crc="159695969" ref="index"/>
+    <file name="dsc00006-crop-u16161.jpg" crc="3768719029" ref="index"/>
+    <file name="remont_1-crop-u176002.jpg" crc="4058621402" ref="index"/>
+    <file name="remont_2-crop-u176562.jpg" crc="4175805852" ref="index"/>
+    <file name="remont_3-crop-u177092.jpg" crc="4201668130" ref="index"/>
+    <file name="remont_4-crop-u177622.jpg" crc="18822040" ref="index"/>
+    <file name="remont_5-crop-u178152.jpg" crc="3839038084" ref="index"/>
+    <file name="dsc00013-crop-u16214.jpg" crc="4171533535" ref="index"/>
+    <file name="dsc000034-crop-u162673.jpg" crc="485762987" ref="index"/>
+    <file name="img_1778-crop-u163205.jpg" crc="4186851327" ref="index"/>
+    <file name="img_1779-crop-u163735.jpg" crc="469697623" ref="index"/>
+    <file name="img_2159-crop-u164265.jpg" crc="4041369545" ref="index"/>
+    <file name="20160222_112610059_ios40x53.jpg" crc="3951907134" seo="true" ref="index"/>
+    <file name="dsc00006-crop-u161765.jpg" crc="3885968698" ref="index"/>
+    <file name="remont_1-crop-u176183.jpg" crc="4044457105" ref="index"/>
+    <file name="remont_2-crop-u176713.jpg" crc="422604243" ref="index"/>
+    <file name="remont_3-crop-u177243.jpg" crc="142062030" ref="index"/>
+    <file name="remont_4-crop-u177773.jpg" crc="305357157" ref="index"/>
+    <file name="remont_5-crop-u178303.jpg" crc="367842313" ref="index"/>
+    <file name="dsc00013-crop-u162295.jpg" crc="4056540803" ref="index"/>
+    <file name="dsc000034-crop-u16282.jpg" crc="4103133612" ref="index"/>
+    <file name="img_1778-crop-u16335.jpg" crc="4186576065" ref="index"/>
+    <file name="img_1779-crop-u16388.jpg" crc="3968248285" ref="index"/>
+    <file name="img_2159-crop-u16441.jpg" crc="353516930" ref="index"/>
+    <file name="u15549-grad2.png" crc="321323610" ref="index"/>
+    <file name="kuzov319x240.png" crc="484607232" seo="true" ref="index"/>
+    <file name="polirovka265x177.jpg" crc="4048788656" seo="true" ref="index"/>
+    <file name="20160222_112610059_ios-crop-u159286.jpg" crc="4082969467" ref="index"/>
+    <file name="dsc00006349x196.jpg" crc="4247333307" seo="true" ref="index"/>
+    <file name="remont_1320x213.jpg" crc="4096572479" seo="true" ref="index"/>
+    <file name="remont_2320x213.jpg" crc="3803576544" seo="true" ref="index"/>
+    <file name="remont_3320x213.jpg" crc="4136424068" seo="true" ref="index"/>
+    <file name="remont_4320x213.jpg" crc="242084292" seo="true" ref="index"/>
+    <file name="remont_5320x213.jpg" crc="3885833531" seo="true" ref="index"/>
+    <file name="dsc00013349x196.jpg" crc="3824441434" seo="true" ref="index"/>
+    <file name="dsc000034320x241.jpg" crc="3832772944" seo="true" ref="index"/>
+    <file name="img_1778320x241.jpg" crc="4244585537" seo="true" ref="index"/>
+    <file name="img_1779320x241.jpg" crc="3809123886" seo="true" ref="index"/>
+    <file name="img_2159320x241.jpg" crc="472392653" seo="true" ref="index"/>
+    <file name="dsc00006-crop-u161766.jpg" crc="3885968698" ref="index"/>
+    <file name="remont_1-crop-u176184.jpg" crc="4044457105" ref="index"/>
+    <file name="remont_2-crop-u176714.jpg" crc="422604243" ref="index"/>
+    <file name="remont_3-crop-u177244.jpg" crc="142062030" ref="index"/>
+    <file name="remont_4-crop-u177774.jpg" crc="305357157" ref="index"/>
+    <file name="remont_5-crop-u178304.jpg" crc="367842313" ref="index"/>
+    <file name="dsc00013-crop-u162296.jpg" crc="4056540803" ref="index"/>
+    <file name="dsc000034-crop-u162822.jpg" crc="4103133612" ref="index"/>
+    <file name="img_1778-crop-u163352.jpg" crc="4186576065" ref="index"/>
+    <file name="img_1779-crop-u163882.jpg" crc="3968248285" ref="index"/>
+    <file name="img_2159-crop-u164412.jpg" crc="353516930" ref="index"/>
+    <file name="ка-crop-u1376.png" crc="239641431" ref="index"/>
+    <file name="ка143x101.png" crc="3855072769" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="158340631" seo="true" mt="1469265449596" redirect="true"/>
+</manifest>
